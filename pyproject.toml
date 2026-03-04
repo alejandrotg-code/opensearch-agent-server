@@ -8,6 +8,8 @@ version = "0.1.0"
 description = "OpenSearch Agent Server for OpenSearch Dashboards — multi-agent orchestrator with page-context routing"
 readme = "README.md"
 requires-python = ">=3.12"
+license = "Apache-2.0"
+
 dependencies = [
     "opensearch-py",
     "mcp",
